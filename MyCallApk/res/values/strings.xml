@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyCallApk</string>
+    <string name="confirm">Confirm</string>
+    <string name="action_settings">Settings</string>
+    <string name="cancel_service">Cancel Service</string>
+
+</resources>
